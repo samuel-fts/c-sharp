@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula25\bin\Debug\net9.0\Aula25.exe
+E:\c#\aulas\Aula25\bin\Debug\net9.0\Aula25.deps.json
+E:\c#\aulas\Aula25\bin\Debug\net9.0\Aula25.runtimeconfig.json
+E:\c#\aulas\Aula25\bin\Debug\net9.0\Aula25.dll
+E:\c#\aulas\Aula25\bin\Debug\net9.0\Aula25.pdb
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.AssemblyInfo.cs
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.sourcelink.json
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.dll
+E:\c#\aulas\Aula25\obj\Debug\net9.0\refint\Aula25.dll
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.pdb
+E:\c#\aulas\Aula25\obj\Debug\net9.0\Aula25.genruntimeconfig.cache
+E:\c#\aulas\Aula25\obj\Debug\net9.0\ref\Aula25.dll

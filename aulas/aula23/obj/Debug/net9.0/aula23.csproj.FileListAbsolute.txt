@@ -1,0 +1,15 @@
+E:\c#\aulas\aula23\bin\Debug\net9.0\aula23.exe
+E:\c#\aulas\aula23\bin\Debug\net9.0\aula23.deps.json
+E:\c#\aulas\aula23\bin\Debug\net9.0\aula23.runtimeconfig.json
+E:\c#\aulas\aula23\bin\Debug\net9.0\aula23.dll
+E:\c#\aulas\aula23\bin\Debug\net9.0\aula23.pdb
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.AssemblyInfoInputs.cache
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.AssemblyInfo.cs
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.csproj.CoreCompileInputs.cache
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.sourcelink.json
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.dll
+E:\c#\aulas\aula23\obj\Debug\net9.0\refint\aula23.dll
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.pdb
+E:\c#\aulas\aula23\obj\Debug\net9.0\aula23.genruntimeconfig.cache
+E:\c#\aulas\aula23\obj\Debug\net9.0\ref\aula23.dll
