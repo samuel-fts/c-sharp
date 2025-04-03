@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula27\bin\Debug\net9.0\Aula27.exe
+E:\c#\aulas\Aula27\bin\Debug\net9.0\Aula27.deps.json
+E:\c#\aulas\Aula27\bin\Debug\net9.0\Aula27.runtimeconfig.json
+E:\c#\aulas\Aula27\bin\Debug\net9.0\Aula27.dll
+E:\c#\aulas\Aula27\bin\Debug\net9.0\Aula27.pdb
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.AssemblyInfo.cs
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.sourcelink.json
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.dll
+E:\c#\aulas\Aula27\obj\Debug\net9.0\refint\Aula27.dll
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.pdb
+E:\c#\aulas\Aula27\obj\Debug\net9.0\Aula27.genruntimeconfig.cache
+E:\c#\aulas\Aula27\obj\Debug\net9.0\ref\Aula27.dll
