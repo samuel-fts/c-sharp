@@ -1,0 +1,15 @@
+E:\c#\aulas\Crono\bin\Debug\net9.0\Crono.exe
+E:\c#\aulas\Crono\bin\Debug\net9.0\Crono.deps.json
+E:\c#\aulas\Crono\bin\Debug\net9.0\Crono.runtimeconfig.json
+E:\c#\aulas\Crono\bin\Debug\net9.0\Crono.dll
+E:\c#\aulas\Crono\bin\Debug\net9.0\Crono.pdb
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.AssemblyInfoInputs.cache
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.AssemblyInfo.cs
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.sourcelink.json
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.dll
+E:\c#\aulas\Crono\obj\Debug\net9.0\refint\Crono.dll
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.pdb
+E:\c#\aulas\Crono\obj\Debug\net9.0\Crono.genruntimeconfig.cache
+E:\c#\aulas\Crono\obj\Debug\net9.0\ref\Crono.dll

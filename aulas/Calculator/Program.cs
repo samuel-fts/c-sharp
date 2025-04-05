@@ -84,6 +84,29 @@ namespace Principal
             Console.ReadKey();
             Menu();
         }
+
+
+    }
+    public class Solution
+    {
+        Two
+        public int[] TwoSum(int[] nums, int target)
+        {
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int point = nums.Length - 1;
+
+                if (nums[i] <= target)
+                {
+                    if ((nums[i] + nums[point]) == target)
+                    {
+                        return nums[i], nums[point];
+                    }
+                    point--;
+                }
+
+            }
+        }
     }
 
 }
