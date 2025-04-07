@@ -1,0 +1,15 @@
+E:\c#\aulas\Edit\bin\Debug\net9.0\Edit.exe
+E:\c#\aulas\Edit\bin\Debug\net9.0\Edit.deps.json
+E:\c#\aulas\Edit\bin\Debug\net9.0\Edit.runtimeconfig.json
+E:\c#\aulas\Edit\bin\Debug\net9.0\Edit.dll
+E:\c#\aulas\Edit\bin\Debug\net9.0\Edit.pdb
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.AssemblyInfoInputs.cache
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.AssemblyInfo.cs
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.sourcelink.json
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.dll
+E:\c#\aulas\Edit\obj\Debug\net9.0\refint\Edit.dll
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.pdb
+E:\c#\aulas\Edit\obj\Debug\net9.0\Edit.genruntimeconfig.cache
+E:\c#\aulas\Edit\obj\Debug\net9.0\ref\Edit.dll
