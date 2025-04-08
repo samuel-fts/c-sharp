@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula29\bin\Debug\net9.0\Aula29.exe
+E:\c#\aulas\Aula29\bin\Debug\net9.0\Aula29.deps.json
+E:\c#\aulas\Aula29\bin\Debug\net9.0\Aula29.runtimeconfig.json
+E:\c#\aulas\Aula29\bin\Debug\net9.0\Aula29.dll
+E:\c#\aulas\Aula29\bin\Debug\net9.0\Aula29.pdb
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.AssemblyInfo.cs
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.sourcelink.json
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.dll
+E:\c#\aulas\Aula29\obj\Debug\net9.0\refint\Aula29.dll
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.pdb
+E:\c#\aulas\Aula29\obj\Debug\net9.0\Aula29.genruntimeconfig.cache
+E:\c#\aulas\Aula29\obj\Debug\net9.0\ref\Aula29.dll
