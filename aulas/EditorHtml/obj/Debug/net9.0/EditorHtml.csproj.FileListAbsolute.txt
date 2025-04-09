@@ -1,0 +1,15 @@
+E:\c#\aulas\EditorHtml\bin\Debug\net9.0\EditorHtml.exe
+E:\c#\aulas\EditorHtml\bin\Debug\net9.0\EditorHtml.deps.json
+E:\c#\aulas\EditorHtml\bin\Debug\net9.0\EditorHtml.runtimeconfig.json
+E:\c#\aulas\EditorHtml\bin\Debug\net9.0\EditorHtml.dll
+E:\c#\aulas\EditorHtml\bin\Debug\net9.0\EditorHtml.pdb
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.AssemblyInfoInputs.cache
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.AssemblyInfo.cs
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.sourcelink.json
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.dll
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\refint\EditorHtml.dll
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.pdb
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\EditorHtml.genruntimeconfig.cache
+E:\c#\aulas\EditorHtml\obj\Debug\net9.0\ref\EditorHtml.dll
