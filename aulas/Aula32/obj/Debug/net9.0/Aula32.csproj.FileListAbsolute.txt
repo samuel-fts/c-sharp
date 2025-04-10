@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula32\bin\Debug\net9.0\Aula32.exe
+E:\c#\aulas\Aula32\bin\Debug\net9.0\Aula32.deps.json
+E:\c#\aulas\Aula32\bin\Debug\net9.0\Aula32.runtimeconfig.json
+E:\c#\aulas\Aula32\bin\Debug\net9.0\Aula32.dll
+E:\c#\aulas\Aula32\bin\Debug\net9.0\Aula32.pdb
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.AssemblyInfo.cs
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.sourcelink.json
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.dll
+E:\c#\aulas\Aula32\obj\Debug\net9.0\refint\Aula32.dll
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.pdb
+E:\c#\aulas\Aula32\obj\Debug\net9.0\Aula32.genruntimeconfig.cache
+E:\c#\aulas\Aula32\obj\Debug\net9.0\ref\Aula32.dll
