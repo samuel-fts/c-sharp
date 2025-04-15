@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula34\bin\Debug\net9.0\Aula34.exe
+E:\c#\aulas\Aula34\bin\Debug\net9.0\Aula34.deps.json
+E:\c#\aulas\Aula34\bin\Debug\net9.0\Aula34.runtimeconfig.json
+E:\c#\aulas\Aula34\bin\Debug\net9.0\Aula34.dll
+E:\c#\aulas\Aula34\bin\Debug\net9.0\Aula34.pdb
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.AssemblyInfo.cs
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.sourcelink.json
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.dll
+E:\c#\aulas\Aula34\obj\Debug\net9.0\refint\Aula34.dll
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.pdb
+E:\c#\aulas\Aula34\obj\Debug\net9.0\Aula34.genruntimeconfig.cache
+E:\c#\aulas\Aula34\obj\Debug\net9.0\ref\Aula34.dll
