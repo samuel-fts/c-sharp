@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula35\bin\Debug\net9.0\Aula35.exe
+E:\c#\aulas\Aula35\bin\Debug\net9.0\Aula35.deps.json
+E:\c#\aulas\Aula35\bin\Debug\net9.0\Aula35.runtimeconfig.json
+E:\c#\aulas\Aula35\bin\Debug\net9.0\Aula35.dll
+E:\c#\aulas\Aula35\bin\Debug\net9.0\Aula35.pdb
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.AssemblyInfo.cs
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.sourcelink.json
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.dll
+E:\c#\aulas\Aula35\obj\Debug\net9.0\refint\Aula35.dll
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.pdb
+E:\c#\aulas\Aula35\obj\Debug\net9.0\Aula35.genruntimeconfig.cache
+E:\c#\aulas\Aula35\obj\Debug\net9.0\ref\Aula35.dll
