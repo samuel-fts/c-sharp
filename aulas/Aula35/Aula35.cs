@@ -6,7 +6,7 @@ namespace Principal
     {
         static void Main()
         {
-            var sensor = new SensorDeMovimento;
+
         }
     }
     public class SensorDeMovimento
