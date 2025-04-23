@@ -3,13 +3,13 @@ using Balta.ContentContext;
 
 namespace Program
 {
-    class Balta
+    class Program
     {
         static void Main()
         {
 
-            var career = new Career();
-            Console.WriteLine(career.Id);
+            var course = new Course();
+            course.Level = Balta.ContentContext.Enums.EContentLevel.Iniciante;
 
         }
     }
