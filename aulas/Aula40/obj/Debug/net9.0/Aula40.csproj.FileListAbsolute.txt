@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula40\bin\Debug\net9.0\Aula40.exe
+E:\c#\aulas\Aula40\bin\Debug\net9.0\Aula40.deps.json
+E:\c#\aulas\Aula40\bin\Debug\net9.0\Aula40.runtimeconfig.json
+E:\c#\aulas\Aula40\bin\Debug\net9.0\Aula40.dll
+E:\c#\aulas\Aula40\bin\Debug\net9.0\Aula40.pdb
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.AssemblyInfo.cs
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.sourcelink.json
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.dll
+E:\c#\aulas\Aula40\obj\Debug\net9.0\refint\Aula40.dll
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.pdb
+E:\c#\aulas\Aula40\obj\Debug\net9.0\Aula40.genruntimeconfig.cache
+E:\c#\aulas\Aula40\obj\Debug\net9.0\ref\Aula40.dll
