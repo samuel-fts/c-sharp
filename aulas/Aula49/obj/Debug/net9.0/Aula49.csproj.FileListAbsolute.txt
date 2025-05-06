@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula49\bin\Debug\net9.0\Aula49.exe
+E:\c#\aulas\Aula49\bin\Debug\net9.0\Aula49.deps.json
+E:\c#\aulas\Aula49\bin\Debug\net9.0\Aula49.runtimeconfig.json
+E:\c#\aulas\Aula49\bin\Debug\net9.0\Aula49.dll
+E:\c#\aulas\Aula49\bin\Debug\net9.0\Aula49.pdb
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.AssemblyInfo.cs
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.sourcelink.json
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.dll
+E:\c#\aulas\Aula49\obj\Debug\net9.0\refint\Aula49.dll
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.pdb
+E:\c#\aulas\Aula49\obj\Debug\net9.0\Aula49.genruntimeconfig.cache
+E:\c#\aulas\Aula49\obj\Debug\net9.0\ref\Aula49.dll
