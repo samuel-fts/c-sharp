@@ -1,0 +1,15 @@
+E:\c#\aulas\Aula54\bin\Debug\net9.0\Aula54.exe
+E:\c#\aulas\Aula54\bin\Debug\net9.0\Aula54.deps.json
+E:\c#\aulas\Aula54\bin\Debug\net9.0\Aula54.runtimeconfig.json
+E:\c#\aulas\Aula54\bin\Debug\net9.0\Aula54.dll
+E:\c#\aulas\Aula54\bin\Debug\net9.0\Aula54.pdb
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.AssemblyInfoInputs.cache
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.AssemblyInfo.cs
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.csproj.CoreCompileInputs.cache
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.sourcelink.json
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.dll
+E:\c#\aulas\Aula54\obj\Debug\net9.0\refint\Aula54.dll
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.pdb
+E:\c#\aulas\Aula54\obj\Debug\net9.0\Aula54.genruntimeconfig.cache
+E:\c#\aulas\Aula54\obj\Debug\net9.0\ref\Aula54.dll
