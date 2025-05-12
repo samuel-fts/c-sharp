@@ -11,6 +11,13 @@ namespace Program
             var course = new Course();
             course.Level = Balta.ContentContext.Enums.EContentLevel.Iniciante;
 
+            foreach (var item in course.Module)
+            {
+
+            }
+            var career = new Career();
+            career.Items.Add(new CareerItem());
+            Console.WriteLine(career.TotalCourses);
         }
     }
 }
